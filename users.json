@@ -1,18 +1,38 @@
 {
+    "12c32c9990adc2d3797d7e4f0b4cf671d3509bcf": {
+        "username": "Dildo Baggins",
+        "wins": 28
+    },
     "4bf5b0d67754201e39d547cfb6c04d6c7fd82d1b": {
         "username": "Jeff",
-        "wins": 3
+        "wins": 13
+    },
+    "76235cc86e4a414e90850917025ae97586309727": {
+        "username": "julian",
+        "wins": 6
+    },
+    "ff240b65852ed7dc1fed437b7d1f26bfd04e34d6": {
+        "username": "Craaaaig",
+        "wins": 1
+    },
+    "91cade9be147f2b112aa85bce631bf351ce69b1a": {
+        "username": "ahttoe",
+        "wins": 1
     },
     "05f19022174c3409f5c3e326a7b5af7807de5f3a": {
         "username": "Mr. Lahey",
-        "wins": 5
+        "wins": 9
     },
-    "a228d355718a82588822a3ec9c858016c7edbde3": {
-        "username": "Max",
+    "501168662c6dd43a58257bb28a10a829edf32869": {
+        "username": "Steve French",
         "wins": 1
     },
     "3fb4c6b56bc13b4715bf1460365c819076da713e": {
         "username": "Stephen Huckabee",
+        "wins": 2
+    },
+    "a228d355718a82588822a3ec9c858016c7edbde3": {
+        "username": "Max",
         "wins": 2
     }
 }
