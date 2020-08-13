@@ -30,6 +30,11 @@
         "wins": 2
     },
     {
+        "id": "2df7534b43ac7d64f7623c6e75fa4b612f9b7153",
+        "username": "Chromeo",
+        "wins": 2
+    },
+    {
         "id": "ff240b65852ed7dc1fed437b7d1f26bfd04e34d6",
         "username": "Craaaaig",
         "wins": 1
@@ -42,11 +47,6 @@
     {
         "id": "501168662c6dd43a58257bb28a10a829edf32869",
         "username": "Steve French",
-        "wins": 1
-    },
-    {
-        "id": "2df7534b43ac7d64f7623c6e75fa4b612f9b7153",
-        "username": "Chromeo",
         "wins": 1
     }
 ]
