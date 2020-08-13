@@ -20,6 +20,11 @@
         "wins": 6
     },
     {
+        "id": "2df7534b43ac7d64f7623c6e75fa4b612f9b7153",
+        "username": "Chromeo",
+        "wins": 3
+    },
+    {
         "id": "3fb4c6b56bc13b4715bf1460365c819076da713e",
         "username": "Stephen Huckabee",
         "wins": 2
@@ -27,11 +32,6 @@
     {
         "id": "a228d355718a82588822a3ec9c858016c7edbde3",
         "username": "Max",
-        "wins": 2
-    },
-    {
-        "id": "2df7534b43ac7d64f7623c6e75fa4b612f9b7153",
-        "username": "Chromeo",
         "wins": 2
     },
     {
