@@ -2,56 +2,67 @@
     {
         "id": "12c32c9990adc2d3797d7e4f0b4cf671d3509bcf",
         "username": "Dildo Baggins",
-        "wins": 28
+        "wins": 28,
+        "rank": 1
     },
     {
         "id": "05f19022174c3409f5c3e326a7b5af7807de5f3a",
         "username": "Mr. Lahey",
-        "wins": 14
+        "wins": 14,
+        "rank": 2
     },
     {
         "id": "4bf5b0d67754201e39d547cfb6c04d6c7fd82d1b",
         "username": "Jeff",
-        "wins": 13
+        "wins": 13,
+        "rank": 3
     },
     {
         "id": "76235cc86e4a414e90850917025ae97586309727",
         "username": "julian",
-        "wins": 6
+        "wins": 6,
+        "rank": 4
     },
     {
         "id": "2df7534b43ac7d64f7623c6e75fa4b612f9b7153",
         "username": "Chromeo",
-        "wins": 3
+        "wins": 4,
+        "rank": 5
     },
     {
         "id": "3fb4c6b56bc13b4715bf1460365c819076da713e",
         "username": "Stephen Huckabee",
-        "wins": 2
+        "wins": 2,
+        "rank": 6
     },
     {
         "id": "a228d355718a82588822a3ec9c858016c7edbde3",
         "username": "Max",
-        "wins": 2
+        "wins": 2,
+        "rank": 6
     },
     {
         "id": "ff240b65852ed7dc1fed437b7d1f26bfd04e34d6",
         "username": "Craaaaig",
-        "wins": 1
+        "wins": 1,
+        "rank": 7
     },
     {
         "id": "91cade9be147f2b112aa85bce631bf351ce69b1a",
         "username": "ahttoe",
-        "wins": 1
+        "wins": 1,
+        "rank": 7
     },
     {
         "id": "501168662c6dd43a58257bb28a10a829edf32869",
         "username": "Steve French",
-        "wins": 1
+        "wins": 1,
+        "rank": 7
     },
     {
         "id": "333fe9b48bfc32dda066d1dc1fe340ff9203268c",
         "username": "Phoney",
-        "wins": 1
+        "wins": 1,
+        "rank": 7
     }
 ]
