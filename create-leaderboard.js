@@ -22,4 +22,16 @@ for (const [id, user] of Object.entries(users)) {
 
 leaderboard.sort(compare);
 
+let rank = 0;
+let wins = null;
+
+leaderboard.forEach(user => {
+    if (wins !== user.wins) {
+        rank++;
+        wins = user.wins;
+    }
+
+    user.rank = rank;
+});
+
 console.log(JSON.stringify(leaderboard, null, 4))
