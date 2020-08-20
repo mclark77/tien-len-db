@@ -42,6 +42,12 @@
         "rank": 6
     },
     {
+        "id": "333fe9b48bfc32dda066d1dc1fe340ff9203268c",
+        "username": "Phoney",
+        "wins": 2,
+        "rank": 6
+    },
+    {
         "id": "ff240b65852ed7dc1fed437b7d1f26bfd04e34d6",
         "username": "Craaaaig",
         "wins": 1,
@@ -56,12 +62,6 @@
     {
         "id": "501168662c6dd43a58257bb28a10a829edf32869",
         "username": "Steve French",
-        "wins": 1,
-        "rank": 7
-    },
-    {
-        "id": "333fe9b48bfc32dda066d1dc1fe340ff9203268c",
-        "username": "Phoney",
         "wins": 1,
         "rank": 7
     }
