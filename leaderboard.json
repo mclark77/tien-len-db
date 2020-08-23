@@ -44,19 +44,19 @@
     {
         "id": "2d05cd5dd316abec3c81c7a9533e3a9c3ead9b50",
         "username": "Rick Deckard",
-        "wins": 2,
-        "rank": 7
+        "wins": 3,
+        "rank": 6
     },
     {
         "id": "ff240b65852ed7dc1fed437b7d1f26bfd04e34d6",
         "username": "Craaaaig",
         "wins": 1,
-        "rank": 8
+        "rank": 7
     },
     {
         "id": "501168662c6dd43a58257bb28a10a829edf32869",
         "username": "Steve French",
         "wins": 1,
-        "rank": 8
+        "rank": 7
     }
 ]
