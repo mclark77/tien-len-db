@@ -24,39 +24,39 @@
         "rank": 4
     },
     {
+        "id": "2d05cd5dd316abec3c81c7a9533e3a9c3ead9b50",
+        "username": "Rick Deckard",
+        "wins": 5,
+        "rank": 5
+    },
+    {
         "id": "a228d355718a82588822a3ec9c858016c7edbde3",
         "username": "Max",
         "wins": 4,
-        "rank": 5
+        "rank": 6
     },
     {
         "id": "84286dbd6d48d3c1941b09588cc593e62384fd20",
         "username": "ought-tow",
         "wins": 4,
-        "rank": 5
-    },
-    {
-        "id": "2d05cd5dd316abec3c81c7a9533e3a9c3ead9b50",
-        "username": "Rick Deckard",
-        "wins": 4,
-        "rank": 5
+        "rank": 6
     },
     {
         "id": "3fb4c6b56bc13b4715bf1460365c819076da713e",
         "username": "Stephen Huckabee",
         "wins": 3,
-        "rank": 6
+        "rank": 7
     },
     {
         "id": "ff240b65852ed7dc1fed437b7d1f26bfd04e34d6",
         "username": "Craaaaig",
         "wins": 1,
-        "rank": 7
+        "rank": 8
     },
     {
         "id": "501168662c6dd43a58257bb28a10a829edf32869",
         "username": "Steve French",
         "wins": 1,
-        "rank": 7
+        "rank": 8
     }
 ]
