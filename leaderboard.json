@@ -64,5 +64,11 @@
         "username": "Steve French",
         "wins": 1,
         "rank": 7
+    },
+    {
+        "id": "774273bba456734bcb5b511ccacb7b0e8126ecbb",
+        "username": "dup",
+        "wins": 1,
+        "rank": 7
     }
 ]
