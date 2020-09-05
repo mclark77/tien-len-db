@@ -70,5 +70,11 @@
         "username": "Steve French",
         "wins": 1,
         "rank": 7
+    },
+    {
+        "id": "b823ce9d1968b2efebcea1aac7dad7a4896a4667",
+        "username": "privateer",
+        "wins": 1,
+        "rank": 7
     }
 ]
