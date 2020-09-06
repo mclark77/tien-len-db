@@ -36,14 +36,14 @@
         "rank": 6
     },
     {
-        "id": "a228d355718a82588822a3ec9c858016c7edbde3",
-        "username": "Max",
-        "wins": 4,
-        "rank": 7
-    },
-    {
         "id": "7a739a04f1301a739ea562fcf2b41fdfca12e351",
         "username": "Lee",
+        "wins": 5,
+        "rank": 6
+    },
+    {
+        "id": "a228d355718a82588822a3ec9c858016c7edbde3",
+        "username": "Max",
         "wins": 4,
         "rank": 7
     },
